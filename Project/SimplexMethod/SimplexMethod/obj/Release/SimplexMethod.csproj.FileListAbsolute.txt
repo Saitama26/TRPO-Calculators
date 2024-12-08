@@ -1,0 +1,10 @@
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Release\SimplexMethod.pdb
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.csproj.AssemblyReference.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.MainScreen.resources
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.Properties.Resources.resources
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.csproj.GenerateResource.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.csproj.CoreCompileInputs.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.pdb
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Release\SimplexMethod.dll.config
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Release\SimplexMethod.dll
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Release\SimplexMethod.dll

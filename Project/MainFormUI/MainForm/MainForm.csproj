@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows7.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <COMReference Include="AcroPDFLib">
+	    <WrapperTool>tlbimp</WrapperTool>
+	    <VersionMinor>0</VersionMinor>
+	    <VersionMajor>1</VersionMajor>
+	    <Guid>05bfd3f1-6319-4f30-b752-c7a22889bcc4</Guid>
+	    <Lcid>0</Lcid>
+	    <Isolated>false</Isolated>
+	    <EmbedInteropTypes>true</EmbedInteropTypes>
+	  </COMReference>
+	  <COMReference Include="AxAcroPDFLib">
+	    <WrapperTool>aximp</WrapperTool>
+	    <VersionMinor>0</VersionMinor>
+	    <VersionMajor>1</VersionMajor>
+	    <Guid>05bfd3f1-6319-4f30-b752-c7a22889bcc4</Guid>
+	    <Lcid>0</Lcid>
+	    <Isolated>false</Isolated>
+	  </COMReference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="GraphMethod">
+	    <HintPath>..\..\GraphMethod\GraphMethod\bin\Debug\net8.0-windows\GraphMethod.dll</HintPath>
+	  </Reference>
+	  <Reference Include="TransportTask">
+	    <HintPath>..\..\transportTask\TransportTask\bin\Debug\net8.0-windows\TransportTask.dll</HintPath>
+	  </Reference>
+	  <Reference Include="Симплекс метод">
+	    <HintPath>..\..\SimplexMethod\SimplexMethod\bin\Debug\Симплекс метод.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+		<Compile Update="Properties\Settings.Designer.cs">
+		  <DesignTimeSharedInput>True</DesignTimeSharedInput>
+		  <AutoGen>True</AutoGen>
+		  <DependentUpon>Settings.settings</DependentUpon>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="Properties\Settings.settings">
+	    <Generator>SettingsSingleFileGenerator</Generator>
+	    <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+	  </None>
+	</ItemGroup>	
+	
+</Project>

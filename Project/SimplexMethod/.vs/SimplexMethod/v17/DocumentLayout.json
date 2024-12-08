@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\SimplexMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33912F5-2E66-4293-B160-49C0D6CB6FB3}|SimplexMethod\\SimplexMethod.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\simplexmethod\\simplexmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33912F5-2E66-4293-B160-49C0D6CB6FB3}|SimplexMethod\\SimplexMethod.csproj|solutionrelative:simplexmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\SimplexMethod\\SimplexMethod\\Program.cs",
+              "RelativeDocumentMoniker": "SimplexMethod\\Program.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\SimplexMethod\\SimplexMethod\\Program.cs",
+              "RelativeToolTip": "SimplexMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T08:45:30.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

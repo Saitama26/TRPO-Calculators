@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GraphMethod</id>
+    <version>1.0.0</version>
+    <authors>GraphMethod</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="a66add9a7ece0b98d1fa1504254e8ba64c882a76" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\College\Практика\Project\GraphMethod\GraphMethod\bin\Debug\net8.0-windows\GraphMethod.runtimeconfig.json" target="lib\net8.0-windows7.0\GraphMethod.runtimeconfig.json" />
+    <file src="D:\College\Практика\Project\GraphMethod\GraphMethod\bin\Debug\net8.0-windows\GraphMethod.dll" target="lib\net8.0-windows7.0\GraphMethod.dll" />
+  </files>
+</package>

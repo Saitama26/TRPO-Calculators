@@ -1,0 +1,28 @@
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csprojResolveAssemblyReference.cache
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.Cache
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.pdb
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csprojResolveAssemblyReference.cache
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Form1.resources
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Users\zao.CCD\Desktop\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.Cache
+C:\Users\Sispo\Documents\University\MMDO\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.MainScreen.resources
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.AssemblyReference.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\SimplexMethod.MainScreen.resources
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Debug\Симплекс метод.dll.config
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Debug\Симплекс метод.dll
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\bin\Debug\Симплекс метод.pdb
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\Симплекс метод.dll
+D:\College\Практика\Project\SimplexMethod\simplex\SimplexMethod\obj\Debug\Симплекс метод.pdb

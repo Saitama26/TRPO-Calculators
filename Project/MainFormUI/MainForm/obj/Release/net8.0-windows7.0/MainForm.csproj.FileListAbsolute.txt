@@ -1,0 +1,36 @@
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.csproj.AssemblyReference.cache
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\Interop.AcroPDFLib.dll
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\AxInterop.AcroPDFLib.dll
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.csproj.ResolveComReference.cache
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.MainMenu.resources
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.Settings.Settings.resources
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.Viewier.resources
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.csproj.GenerateResource.cache
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\MainForm.exe
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\MainForm.deps.json
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\MainForm.runtimeconfig.json
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\MainForm.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\MainForm.pdb
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\GraphMethod.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\TransportTask.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\Симплекс метод.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\OxyPlot.WindowsForms.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\OxyPlot.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\GraphMethod.pdb
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\TransportTask.pdb
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\Симплекс метод.pdb
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\Симплекс метод.dll.config
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\Interop.AcroPDFLib.dll
+D:\College\Практика\Project\MainFormUI\MainForm\bin\Release\net8.0-windows7.0\AxInterop.AcroPDFLib.dll
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.Properties.Resources.resources
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.AssemblyInfoInputs.cache
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.AssemblyInfo.cs
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.csproj.CoreCompileInputs.cache
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.sourcelink.json
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.csproj.Up2Date
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.dll
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\refint\MainForm.dll
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.pdb
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\MainForm.genruntimeconfig.cache
+D:\College\Практика\Project\MainFormUI\MainForm\obj\Release\net8.0-windows7.0\ref\MainForm.dll

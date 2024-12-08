@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\viewier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\viewier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\mainform\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\mainform\\viewier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\viewier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\winapifunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\winapifunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|d:\\college\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\project\\mainformui\\mainform\\roundedcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\roundedcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\mainform\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C4538D8D-66B5-4BA9-B9BC-73543BBBF6B9}|MainForm\\MainForm.csproj|solutionrelative:mainform\\settings\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Viewier.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Viewier.cs",
+              "RelativeDocumentMoniker": "MainForm\\Viewier.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Viewier.cs",
+              "RelativeToolTip": "MainForm\\Viewier.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:46:05.729Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainMenu.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\MainMenu.cs [Design]",
+              "RelativeToolTip": "MainForm\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:35:27.079Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainForm\\MainMenu.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\MainMenu.cs",
+              "RelativeToolTip": "MainForm\\MainMenu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAewIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:58:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Properties\\Resources.Designer.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "MainForm\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:59:39.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "MainForm\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T21:52:40.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Settings\\Settings.cs",
+              "RelativeDocumentMoniker": "MainForm\\Settings\\Settings.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Settings\\Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm\\Settings\\Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:44:58.949Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Viewier.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Viewier.cs",
+              "RelativeDocumentMoniker": "MainForm\\Viewier.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\Viewier.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm\\Viewier.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T20:46:01.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoundedComponents.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\RoundedComponents.cs",
+              "RelativeDocumentMoniker": "MainForm\\RoundedComponents.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\RoundedComponents.cs",
+              "RelativeToolTip": "MainForm\\RoundedComponents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:14:31.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WinAPIfunctions.cs",
+              "DocumentMoniker": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\WinAPIfunctions.cs",
+              "RelativeDocumentMoniker": "MainForm\\WinAPIfunctions.cs",
+              "ToolTip": "D:\\College\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\Project\\MainFormUI\\MainForm\\WinAPIfunctions.cs",
+              "RelativeToolTip": "MainForm\\WinAPIfunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:21:37.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
